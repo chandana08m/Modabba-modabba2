@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "502727193758",
+    "firebase_url": "https://modabba-food-delivery-app.firebaseio.com",
+    "project_id": "modabba-food-delivery-app",
+    "storage_bucket": "modabba-food-delivery-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502727193758:android:d91d624d187c3d37e3f78f",
+        "android_client_info": {
+          "package_name": "com.example.modabba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502727193758-7cjk6hi967834q02q5u0amuc3d6i92c2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.modabba",
+            "certificate_hash": "74a925bec078d1243cfc854656e8e7db05c367de"
+          }
+        },
+        {
+          "client_id": "502727193758-k1m0p1jb1sa0dfi9on12u6qmfp5ahdl4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.modabba",
+            "certificate_hash": "2d25a1655d49b650c1dcfe2ab1a5fd0f4abfebd8"
+          }
+        },
+        {
+          "client_id": "502727193758-s7prlfk3isqd2u11mftjjovmm830k7nu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAISBOSlBNHzD_mddUN4EFoqhYR8F77rHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502727193758-s7prlfk3isqd2u11mftjjovmm830k7nu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
